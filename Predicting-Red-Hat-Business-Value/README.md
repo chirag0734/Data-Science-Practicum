@@ -1,4 +1,4 @@
-#Predicting Red Hat Business Value
+# Predicting Red Hat Business Value
 
 Team name - minions
 
